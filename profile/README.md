@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/technology-computer_vision / robotics-ff69b4?style=flat-square" alt="Technology Badge">
 </p>
 
-We're a computer vision and robotics company 📷🤖 focused on research and development 🧪🔬. With a small but dedicated team of just 2 people, we're passionate about exploring the exciting possibilities of AI and machine learning in our field.
+We're a computer vision and robotics company 📷🤖 focused on research and development 🧪🔬. With a small but dedicated team, we're passionate about exploring the exciting possibilities of AI and machine learning in our field.
 
 ## Our Mission 🚀
 
